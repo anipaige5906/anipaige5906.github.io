@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+/*--- 
+font-family: 'Anton', sans-serif;
+
+
+
+---*/
+.body {
+    background-color:dimgray;
+}
+
+#navbarlogo {
+    display: block;
+    margin: 10px auto;
+    width: 15%;
+}
+
+nav {
+    background-color:#A9A9A9;
+   font-family: 'Bebas Neue', cursive;
+    color:red !important;
+}
+
+.nav-item .nav-link {
+    color: red !important;
+    font-family: 'Anton', sans-serif;
+
+}
+
+
+a.navbar-brand {
+    font-family: 'Anton', sans-serif;
+    color:red !important;
+}
+.form-control  {
+   font-family: 'Anton', sans-serif;
+    background-color: lightgray !important;
+    color:red !important;
+}
+.btn  {
+    font-family: 'Anton', sans-serif;
+    
+}
+.dropdown-menu {
+    font-family: 'Anton', sans-serif;
+    background-color: lightgray !important;
+    
+}
